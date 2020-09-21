@@ -16,12 +16,12 @@ body{
   text-align: center;
 }
 
-.homemenu{
+/* .homemenu{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   padding-top: 10px;
-}
+} */
 .jslheader{
   text-align:center;
 }
@@ -39,10 +39,14 @@ body{
 }
 .homemenu{
   background-color:#f9f9f9e0;
-  height:40%;
+  /* height:40%; */
   justify-content: space-around;
   flex-wrap: wrap;
   padding-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-top: 10px;
 }
 table {
   
