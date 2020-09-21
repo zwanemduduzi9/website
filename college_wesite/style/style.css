@@ -414,7 +414,7 @@ margin-top: 0px;
 margin-bottom: -100px;
 }
 .containerAbout{
-  padding: 30px 0px;
+  /* padding: 30px 0px; */
   
 }
 .keyValues{
@@ -425,4 +425,12 @@ margin-bottom: -100px;
 .container2{
   height: 8000px;
 }
+table{
+  margin: 0;
+}
+.contn h1{
+  font-size: 30px;
+  font-weight: 600;
+}
+
 
