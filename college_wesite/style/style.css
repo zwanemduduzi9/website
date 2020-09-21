@@ -316,3 +316,103 @@ a {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.intro{
+  
+  padding: 16px;
+  margin-top: 0px;
+  margin-left: 100px;
+  margin-bottom: 0px;
+  margin-right: 900px;
+}
+.introR{
+  padding: 16px;
+  
+  margin-top: -500px;
+  margin-left: 500px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+.Contactheader{
+  text-align: center; 
+}
+.contn{
+  background-color:#001f18a3;
+}
+
+.intro ul li i {
+	font-size: 29px;
+	color: #f43f00;
+	display: inline-block;
+	width: 41px;
+	position: relative;
+	top: 5px;
+	font-weight: 400;
+}
+
+.intro.social-links a {
+	width: 32px;
+	height: 32px;
+	text-align: center;
+	font-size: 15px;
+	padding-top: 3px;
+	color: #004421;
+	border: 1px solid #004421;
+	border-radius: 50%;
+	margin-right: 3px;
+}
+
+.social-links a:hover {
+	color: #f43f00;
+	border-color: #f43f00;
+}
+.contact-form {
+	padding-top: 50px;
+}
+.contact-form input,
+.contact-form textarea {
+	width: 100%;
+	height: 59px;
+	border: none;
+	padding: 0 27px;
+	margin-bottom: 30px;
+	font-size: 14px;
+	font-style: italic;
+	color: #838383;
+	background: #ebf0f3;
+}
+.contact-form textarea {
+	height: 222px;
+	padding: 20px 27px 10px;
+	margin-bottom: 35px;
+	resize: none;
+}
+
+.map {
+	margin: 100px 0 27px;
+	height: 511px;
+	position: relative;
+  background: #ddd;
+  color: #4a4b4b;
+}
+
+.map iframe {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+}
+.mapText h1{
+text-align: center;
+margin-top: 0px;
+margin-bottom: -100px;
+}
+.containerAbout{
+  padding: 30px 0px;
+  
+}
+.keyValues{
+
+  text-align: center;
+
+}
